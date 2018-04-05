@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".sign-in-form__log-in-btn").click(function(){var n=$("#login-inp").val(),i=$("#password-inp").val(),l=$(".sign-in-form__validation");if(""==n||""==i)return l.css("display","block"),!1;alert("Hello "+n+"!")})});

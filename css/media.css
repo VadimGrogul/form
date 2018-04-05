@@ -1,0 +1,20 @@
+@media screen and (max-width: 810px) {
+  .vertical-line {
+    display: none; }
+  .main__social-btns-login {
+    width: 80%;
+    margin-bottom: 20px; }
+    .main__social-btns-login .social-btn {
+      width: 100%;
+      max-width: 100%; }
+  .main .sign-in-form {
+    width: 80%; }
+    .main .sign-in-form__input {
+      max-width: 100%;
+      width: 100%; }
+  .facebook-text, .google-text {
+    margin: 0 auto; } }
+
+@media screen and (max-width: 600px) {
+  .main {
+    padding: 50px 0 !important; } }
